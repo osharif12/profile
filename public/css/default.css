@@ -158,11 +158,6 @@ pre {
   word-wrap: break-word;
 }
 
-blockquote,
-q {
-  quotes: &#8220 &#8220;
-}
-
 blockquote:before,
 blockquote:after,
 q:before,
@@ -242,7 +237,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #ea4107;
+  color: #313131;
   font-family: "opensans-bold", sans-serif;
   font-weight: normal;
 }
